@@ -51,7 +51,7 @@ p {
 .cards {
   display: flex;
   flex-direction: row;
-  max-width: min(90%, 52rem);
+  max-width: min(90%, 60rem);
   min-height: 32rem;
   justify-content: center;
 }
